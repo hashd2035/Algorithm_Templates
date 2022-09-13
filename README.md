@@ -116,7 +116,8 @@ Well worth reading:
 
   <https://leetcode.com/problems/single-number-ii/discuss/43295/Detailed-explanation-and-generalization-of-the-bitwise-operation-method-for-single-numbers>
 
-
-
+- **binary search**
+  <https://leetcode.com/problems/split-array-largest-sum/discuss/769701/Python-Clear-explanation-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems>
+  
 ## Contact
 recnac@foxmail.com
